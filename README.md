@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @NadeenXo
+# 👾 Nadeen Serag
+
+<!--- - 👋 Hi, I’m @NadeenXo --->
 <!--- 👀 I’m interested in ...--->
 - 🌱 I’m currently learning android
 <!--- 💞️ I’m looking to collaborate on ...--->
